@@ -1,0 +1,17 @@
+lemma,poscode,surface
+org,3,org,orgs,organization,organizations
+model,3,model,models
+account,3,account,accounts,acount,acont,accont,accout
+project,3,project,projects
+name,3,name,names
+dataset,3,dataset,datasets,data set,data sets
+shapefile,3,shapefile,shapefiles,shape file,shape files
+access key,3,access key,access keys
+endpoint,3,endpoint,endpoints,end point,end points,scoring endpoint,scoring endpoints,scoring end point,scoring end points
+limit,3,limit,limits
+trial,3,trial,free trial,trail,free plan,free access
+collaborator,3,collaborator,collaborators
+flow,3,flow,flows
+dataframe,3,dataframe,data frame
+database,3,database,databases,db,dbm,dbs
+notebook,3,notebook,note book,note-book,notebooks,note-books,note books
