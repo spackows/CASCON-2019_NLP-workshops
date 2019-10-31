@@ -1,0 +1,15 @@
+how do i save my data as a csv file
+
+Hi is any way to download my files in data assets back to my loacal machine?
+
+Hi I created a csv in my notebook but how do I download it to my laptop?
+
+How do I start using Watson Machine Learning
+
+Good night where to place my file to import it into notebook?
+
+how can i extend my trial period
+
+How to acess the data in jupyter notebook using pandas?
+
+Hi I want to know how to make connection to database

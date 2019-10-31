@@ -1,0 +1,20 @@
+I keep getting a Failed creating account error
+
+Hi trying to create a note book it is giving error
+
+Im trying to create a python notebook and keep getting an error
+
+Hi when I tried to create a project am getting below error can you pls guide here
+
+I cant see my  spark instance when i go to create a new project
+
+Hi fine I was having difficulty uploading data but its working now
+
+I get error like Exceeded Services Limit
+
+Hi l couldnt able to create a new project
+
+Hello I keep getting error when trying to create account. Can you help me with that?
+
+hello I cannot create a Notebook
+

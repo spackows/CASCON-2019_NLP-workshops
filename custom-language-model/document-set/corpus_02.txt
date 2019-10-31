@@ -1,0 +1,20 @@
+How can I upload a dataset to r studio
+
+Hi can you tell me how to load a shape file?
+
+How can I use already-deployed models with WML?
+
+Hi Im testing dsx
+
+Hi cant login today with this err The owners accout is not active. This might be caused by expired membership.
+
+I am not able to register my account need your help
+
+Hi I got the message failed to prepare Object-Storage. Would you please give me a suggestion. Thank you.
+
+Hi I am trying to request a new API access key but I dont know what the ID should be for me
+
+When I try to add a model to any project I get an Unauthorized error.
+
+When I insert connection to a file in R I get errors trying to run it
+
