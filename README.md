@@ -40,7 +40,7 @@ Ashley Zhao<br/>
 <p>&nbsp;</p>
 
 
-## Handly links
+## Handy links
 
 <ul>
 <li>
@@ -59,19 +59,19 @@ Ashley Zhao<br/>
 
 In this practical, hands-on workshop, you will use IBM Watson Natural Language Understanding to extract meaning from sample text in a Python notebook in IBM Watson Studio.
 
-[Worshop session 1 instructions]()
+[Workshop session 1 instructions]()
 
 <img src="images/keywords-word-cloud.png" alt="Word cloud" width="400"/>
 
 <p>&nbsp;</p>
 
 
-## Worshop session 2
+## Workshop session 2
 **NLP Hands-on Workshop Series Session 2: Creating a custom language model to optimize NLP results**
 
 In this practical, hands-on workshop, you will create a custom language model using IBM Watson Knowledge Studio. Then you'll use IBM Watson Natural Language Understanding in a Python notebook in IBM Watson Studio to compare results from a general language model with results from your custom language model.
 
-[Worshop session 2 instructions]()
+[Workshop session 2 instructions]()
 
 <img src="images/actions-compare.png" alt="Word cloud" width="80%"/>
 
