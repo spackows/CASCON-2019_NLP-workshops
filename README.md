@@ -21,7 +21,7 @@ Create an IBM Cloud account and provision the following services, if you don't a
 </li>
 <li>
 <p>[For workshop 2 only] Provision an instance of IBM Watson Knowledge Studio<br/>
-<a href="https://cloud.ibm.com/catalog/services/knowledge-studio">IBM Watson NLU</a></p>
+<a href="https://cloud.ibm.com/catalog/services/knowledge-studio">IBM Knowledge Studio</a></p>
 </li>
 </ol>
 
