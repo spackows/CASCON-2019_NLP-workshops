@@ -1,4 +1,4 @@
-# CASCON-2019_NLP-workshops
+# CASCON 2019 NLP workshops
 
 As the use of Natural Language Processing (NLP) to process text becomes ubiquitous - from social media apps to job applications - understanding the basics of how meaning is extracted from text is crucial.
 
