@@ -38,3 +38,19 @@ Ashley Zhao<br/>
 
 <p>&nbsp;</p>
 
+
+## Handly links
+
+<ul>
+<li>
+<p><a href="https://cloud.ibm.com/resources">IBM Cloud dashboard</a></p>
+</li>
+<li>
+<p><a href="https://dataplatform.cloud.ibm.com/home">IBM Watson Studio web GUI</a></p>
+</li>
+</ul>
+
+<p>&nbsp;</p>
+
+
+
