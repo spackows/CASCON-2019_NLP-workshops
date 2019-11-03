@@ -1,6 +1,8 @@
 # CASCON-2019_NLP-workshops
 
-As the use of NLP to process text becomes ubiquitous - from social media apps to on-line job applications - understanding the basics of how meaning is extracted from text is crucial.
+As the use of Natural Language Processing (NLP) to process text becomes ubiquitous - from social media apps to job applications - understanding the basics of how meaning is extracted from text is crucial.
+
+In these hands-on workshops, you will learn how to use IBM Watson services to extract meaning from sample text.
 
 <p>&nbsp;</p>
 
