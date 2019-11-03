@@ -26,7 +26,7 @@ Create an IBM Cloud account and provision the following services, if you don't a
 </ol>
 
 Here is a video demonstrating setting these up:<br/>
-<a href="">Set up</a>
+<a href="">Set up video</a>
 
 If you have any trouble completing these prerequisites, feel free to email us for help:
 
