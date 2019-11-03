@@ -13,15 +13,15 @@ Create an IBM Cloud account and provision the following services, if you don't a
 </li>
 <li>
 <p>Provision an instance of IBM Watson Studio<br/>
-<a hef="https://cloud.ibm.com/catalog/services/watson-studio">IBM Watson Studio</a></p>
+<a href="https://cloud.ibm.com/catalog/services/watson-studio">IBM Watson Studio</a></p>
 </li>
 <li>
 <p>Provision an instance of IBM Watson Natural Language Understanding<br/>
-<a hef="https://cloud.ibm.com/catalog/services/natural-language-understanding">IBM Watson NLU</a></p>
+<a href="https://cloud.ibm.com/catalog/services/natural-language-understanding">IBM Watson NLU</a></p>
 </li>
 <li>
 <p>[For workshop 2 only] Provision an instance of IBM Watson Knowledge Studio<br/>
-<a hef="https://cloud.ibm.com/catalog/services/knowledge-studio">IBM Watson NLU</a></p>
+<a href="https://cloud.ibm.com/catalog/services/knowledge-studio">IBM Watson NLU</a></p>
 </li>
 </ol>
 
