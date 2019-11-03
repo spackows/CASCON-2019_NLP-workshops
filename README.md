@@ -1,5 +1,6 @@
 # CASCON-2019_NLP-workshops
-Samples for CASCON 2019 workshops
+
+As the use of NLP to process text becomes ubiquitous - from social media apps to on-line job applications - understanding the basics of how meaning is extracted from text is crucial.
 
 <p>&nbsp;</p>
 
@@ -20,7 +21,7 @@ Create an IBM Cloud account (free) and provision instances (lite plan) of the fo
 <a href="https://cloud.ibm.com/catalog/services/natural-language-understanding">IBM Watson NLU</a></p>
 </li>
 <li>
-<p>[For workshop 2 only] Provision an instance of IBM Watson Knowledge Studio<br/>
+<p>[For workshop session 2 only] Provision an instance of IBM Watson Knowledge Studio<br/>
 <a href="https://cloud.ibm.com/catalog/services/knowledge-studio">IBM Knowledge Studio</a></p>
 </li>
 </ol>
@@ -52,5 +53,26 @@ Ashley Zhao<br/>
 
 <p>&nbsp;</p>
 
+
+## Workshop session 1
+**NLP Hands-on Workshop Series Session 1: Extracting meaning from text using a notebook in Watson Studio**
+
+In this practical, hands-on workshop, you will use IBM Watson Natural Language Understanding to extract meaning from sample text in a Python notebook in IBM Watson Studio.
+
+[Worshop session 1 instructions]()
+
+<img src="images/keywords-word-cloud.png" alt="Word cloud" width="400"/>
+
+<p>&nbsp;</p>
+
+
+## Worshop session 2
+**NLP Hands-on Workshop Series Session 2: Creating a custom language model to optimize NLP results**
+
+In this practical, hands-on workshop, you will create a custom language model using IBM Watson Knowledge Studio. Then you'll use IBM Watson Natural Language Understanding in a Python notebook in IBM Watson Studio to compare results from a general language model with results from your custom language model.
+
+[Worshop session 2 instructions]()
+
+<img src="images/actions-compare.png" alt="Word cloud" width="80%"/>
 
 
