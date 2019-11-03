@@ -5,7 +5,7 @@ Samples for CASCON 2019 workshops
 
 
 ## Workshop prerequisites
-Create an IBM Cloud account and provision the following services, if you don't already have these, before starting the workshops:
+Create an IBM Cloud account and provision the following services (if you don't already have these) before starting the workshops:
 <ol>
 <li>
 <p>Create an IBM Cloud account<br/>
@@ -25,8 +25,8 @@ Create an IBM Cloud account and provision the following services, if you don't a
 </li>
 </ol>
 
-Here is a video demonstrating setting these up:<br/>
-<a href="https://youtu.be/8ZQ4cSH6-qE">Set up video</a>
+Demo video:<br/>
+<a href="https://youtu.be/8ZQ4cSH6-qE">Prerequisite set up</a>
 
 If you have any trouble completing these prerequisites, feel free to email us for help:
 
