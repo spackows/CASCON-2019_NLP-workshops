@@ -2,5 +2,10 @@
 
 **Creating a custom language model to optimize NLP results**
 
-*Details will be available for the workshop*
+Tuesday, November 5 | 10:45 - 12:15 | Holly & Butternut
+
+<p>&nbsp;</p>
+
+
+*Instructions will be available just before the workshop*
 
