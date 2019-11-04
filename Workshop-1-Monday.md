@@ -1,4 +1,4 @@
-# NLP Hands-on Workshop Series Session 1
+# NLP Hands-on Workshop Series - Session 1
 
 **Extracting meaning from text using a notebook in Watson Studio**
 
