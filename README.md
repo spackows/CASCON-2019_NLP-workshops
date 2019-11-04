@@ -61,7 +61,7 @@ Ashley Zhao<br/>
 
 In this practical, hands-on workshop, you will use IBM Watson Natural Language Understanding to extract meaning from sample text in a Python notebook in IBM Watson Studio.
 
-[Workshop session 1 instructions]()
+[Workshop session 1 instructions](https://github.com/spackows/CASCON-2019_NLP-workshops/blob/master/Workshop-1-Monday.md)
 
 <img src="images/keywords-word-cloud.png" alt="Word cloud" width="400"/>
 
@@ -73,7 +73,7 @@ In this practical, hands-on workshop, you will use IBM Watson Natural Language U
 
 In this practical, hands-on workshop, you will create a custom language model using IBM Watson Knowledge Studio. Then you'll use IBM Watson Natural Language Understanding in a Python notebook in IBM Watson Studio to compare results from a general language model with results from your custom language model.
 
-[Workshop session 2 instructions]()
+<!-- [Workshop session 2 instructions]() -->
 
 <img src="images/actions-compare.png" alt="Word cloud" width="80%"/>
 
