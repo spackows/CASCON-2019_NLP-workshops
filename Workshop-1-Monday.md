@@ -2,6 +2,11 @@
 
 **Extracting meaning from text using a notebook in Watson Studio**
 
+Monday, November 4 | 15:15 - 17:00 | Holly & Butternut
+
+<p>&nbsp;</p>
+
+
 ## Section A
 A great way to learn about the basic concepts and terms related to IBM Watson Natural Language Understanding is to explore the demo app: [https://natural-language-understanding-demo.ng.bluemix.net](https://natural-language-understanding-demo.ng.bluemix.net)
 
