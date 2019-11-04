@@ -104,7 +104,7 @@ Visualize analysis results in the second notebook.
 </li>
 </ol>
 
-<img src="images/visualize-nlu.png" alt="Visualize NLU analysis" width="60%"/>
+<img src="images/keywords-word-cloud.png" alt="Visualize NLU analysis" width="60%"/>
 
 <p>&nbsp;</p>
 
