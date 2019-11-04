@@ -50,7 +50,7 @@ Create a project in Watson Studio from the sample project.
 
 <img src="images/proj.png" alt="Creating a project from a file" width="60%"/>
 
-Demo video:<br/>
+**Demo video**<br/>
 [Create project from sample](https://youtu.be/UWGZPVKFk1o)
 
 <p>&nbsp;</p>
