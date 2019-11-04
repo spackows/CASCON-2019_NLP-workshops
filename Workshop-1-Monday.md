@@ -3,7 +3,7 @@
 **Extracting meaning from text using a notebook in Watson Studio**
 
 ## Section A
-A great way to learn about the basic concepts and terms related to IBM Watson Natural Language Understanding, is to explore the demo app: [https://natural-language-understanding-demo.ng.bluemix.net/](https://natural-language-understanding-demo.ng.bluemix.net/)
+A great way to learn about the basic concepts and terms related to IBM Watson Natural Language Understanding is to explore the demo app: [https://natural-language-understanding-demo.ng.bluemix.net/](https://natural-language-understanding-demo.ng.bluemix.net)
 
 In the demo app, you can explore:
 - **Sentiment** - positive/negative
@@ -38,6 +38,7 @@ Create a project in Watson Studio and add the first sample notebook to the proje
 <li>Select <b>Notebook</b></li>
 <li>Select <b>From URL</b></li>
 <li>Name the notebook (eg. "Exploring NLU")</li>
+<li>Accept the default runtime: "Default Python 3.6 XS (2 vCPU and 8GB RAM)"</li>
 <li>Paste this URL in the <b>Notebook URL</b> text box: <a href="https://github.com/spackows/CASCON-2019_NLP-workshops/blob/master/notebooks/Notebook-1_Exploring-NLU.ipynb">Notebook URL</a></li>
 <li>Click <b>Create Notebook</b></li>
 </ol>
@@ -94,6 +95,7 @@ Visualize analysis results in the second notebook.
 <li>Select <b>Notebook</b></li>
 <li>Select <b>From URL</b></li>
 <li>Name the notebook (eg. "Visualizing NLU results")</li>
+<li>Accept the default runtime: "Default Python 3.6 XS (2 vCPU and 8GB RAM)"</li>
 <li>Paste this URL in the <b>Notebook URL</b> text box: <a href="https://github.com/spackows/CASCON-2019_NLP-workshops/blob/master/notebooks/Notebook-2_Visualizing-NLU-results.ipynb">Notebook URL</a></li>
 <li>Click <b>Create Notebook</b></li>
 </ol>
