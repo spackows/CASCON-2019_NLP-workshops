@@ -59,6 +59,8 @@ Ashley Zhao<br/>
 ## Workshop session 1
 **NLP Hands-on Workshop Series Session 1: Extracting meaning from text using a notebook in Watson Studio**
 
+Monday, November 4 | 15:15 - 17:00 | Holly & Butternut
+
 In this practical, hands-on workshop, you will use IBM Watson Natural Language Understanding to extract meaning from sample text in a Python notebook in IBM Watson Studio.
 
 [Workshop session 1 instructions](https://github.com/spackows/CASCON-2019_NLP-workshops/blob/master/Workshop-1-Monday.md)
@@ -70,6 +72,8 @@ In this practical, hands-on workshop, you will use IBM Watson Natural Language U
 
 ## Workshop session 2
 **NLP Hands-on Workshop Series Session 2: Creating a custom language model to optimize NLP results**
+
+Tuesday, November 5 | 10:45 - 12:15 | Holly & Butternut
 
 In this practical, hands-on workshop, you will create a custom language model using IBM Watson Knowledge Studio. Then you'll use IBM Watson Natural Language Understanding in a Python notebook in IBM Watson Studio to compare results from a general language model with results from your custom language model.
 
