@@ -28,7 +28,7 @@ Create a project in Watson Studio from the sample project.
 <ol>
 <!-- step -->
 <li>
-<p>Download this sample project:<br/>
+<p>Download this sample project to your local computer:<br/>
 <a href="https://github.com/spackows/CASCON-2019_NLP-workshops/raw/master/sample-projects/CASCON-2019-NLP-Workshop-1-Monday.zip">CASCON-2019-NLP-Workshop-1-Monday.zip</a></p>
 </li>
 <!-- step -->
