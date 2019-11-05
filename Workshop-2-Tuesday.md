@@ -202,6 +202,7 @@ Visualize normalized results.
 
 
 ### Bonus: Section F \[Optional]
+
 Cluster messages using extracted entities.
 
 <ol>
