@@ -163,6 +163,7 @@ Analyze customer questions and comments a notebook.
 
 
 ### Section D
+
 Normalize results.
 
 <ol>
