@@ -173,7 +173,7 @@ Normalize results.
 </li>
 <!-- step -->
 <li>
-<p>Run the <code>code</code> cells in the notebook <b>in order, starting at the top.</p>
+<p>Run the <code>code</code> cells in the notebook <b>in order, starting at the top</b>.</p>
 </li>
 </ol>
 
@@ -193,7 +193,7 @@ Visualize normalized results.
 </li>
 <!-- step -->
 <li>
-<p>Run the <code>code</code> cells in the notebook <b>in order, starting at the top.</p>
+<p>Run the <code>code</code> cells in the notebook <b>in order, starting at the top</b>.</p>
 </li>
 </ol>
 
@@ -213,7 +213,7 @@ Cluster messages using extracted entities.
 </li>
 <!-- step -->
 <li>
-<p>Run the <code>code</code> cells in the notebook <b>in order, starting at the top.</p>
+<p>Run the <code>code</code> cells in the notebook <b>in order, starting at the top</b>.</p>
 </li>
 </ol>
 
