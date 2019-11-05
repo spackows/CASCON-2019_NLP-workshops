@@ -77,7 +77,7 @@ Tuesday, November 5 | 10:45 - 12:15 | Holly & Butternut
 
 In this practical, hands-on workshop, you will create a custom language model using IBM Watson Knowledge Studio. Then you'll use IBM Watson Natural Language Understanding in a Python notebook in IBM Watson Studio to compare results from a general language model with results from your custom language model.
 
-<!-- [Workshop session 2 instructions]() -->
+[Workshop session 1 instructions](https://github.com/spackows/CASCON-2019_NLP-workshops/blob/master/Workshop-2-Tuesday.md)
 
 <img src="images/actions-compare.png" alt="Word cloud" width="80%"/>
 
