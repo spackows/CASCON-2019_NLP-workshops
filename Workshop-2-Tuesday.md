@@ -122,4 +122,100 @@ Create a project in Watson Studio from the sample project.
 <p>&nbsp;</p>
 
 
+### Section C
+Analyze customer questions and comments a notebook.
+
+<ol>
+<!-- step -->
+<li>
+<p>On the <b>Assets</b> page of your project, open the notebook named "3-Custom-language-model" in edit mode by clicking the pencil ( <img src="images/pencil.png" /> ) beside the notebook</p>
+</li>
+<ol>
+<!-- step -->
+<li>
+<p>Add the NLU service apikey:</p>
+<ol>
+<li>From the <b>Services</b> menu in Watson Studio, right-click "Watson Services" and then open the link in a new browser tab</li>
+<li>In the new Watson services tab, from the <b>Action</b> menu beside the Natural Language Understanding instance, select "Manage in IBM Cloud"</li>
+<li>In the service details page that opens, click <b>Service credentials</b>, then expand credentials to view them, and then copy the apikey</li>
+</ol>
+</li>
+<!-- step -->
+<li>
+<p>Specify the custom model ID:</p>
+<ol>
+<li>On the <b>Versions</b> page in your Knowledge Studio workspace, expand the <b>Deployed Models</b> list</li>
+<li>Copy the <b>Model ID</b></li>
+</ol>
+</li>
+<!-- step -->
+<li>
+<p>Run the <code>code</code> cells in the notebook <b>in order, starting at the top</b>.</p>
+<ol>
+<li>Import sample customer messages</li>
+<li>Analyze sample customer messages: default model & custom model</li>
+</ol>
+</li>
+</ol>
+
+<img src="images/notebook.png" alt="Notebook" width="90%"/>
+
+<p>&nbsp;</p>
+
+
+### Section D
+Normalize results.
+
+<ol>
+<!-- step -->
+<li>
+<p>On the <b>Assets</b> page of your project, open the notebook named "4-Normalize-custom-model-results" in edit mode by clicking the pencil ( <img src="images/pencil.png" /> ) beside the notebook</p>
+</li>
+<!-- step -->
+<li>
+<p>Run the <code>code</code> cells in the notebook <b>in order, starting at the top.</p>
+</li>
+</ol>
+
+<img src="images/normalized.png" alt="Normalizing results" width="60%"/>
+
+<p>&nbsp;</p>
+
+
+### Section E
+Visualize normalized results.
+
+<ol>
+<!-- step -->
+<li>
+<p>On the <b>Assets</b> page of your project, open the notebook named "5-Visualize-custom-model-results" in edit mode by clicking the pencil ( <img src="images/pencil.png" /> ) beside the notebook</p>
+</li>
+<!-- step -->
+<li>
+<p>Run the <code>code</code> cells in the notebook <b>in order, starting at the top.</p>
+</li>
+</ol>
+
+<img src="images/actions-compare.png" alt="Visualize normalized results" width="60%"/>
+
+<p>&nbsp;</p>
+
+
+### Bonus: Section F [Optional]
+Cluster messages using extracted entities.
+
+<ol>
+<!-- step -->
+<li>
+<p>On the <b>Assets</b> page of your project, open the notebook named "5-Visualize-custom-model-results" in edit mode by clicking the pencil ( <img src="images/pencil.png" /> ) beside the notebook</p>
+</li>
+<!-- step -->
+<li>
+<p>Run the <code>code</code> cells in the notebook <b>in order, starting at the top.</p>
+</li>
+</ol>
+
+<img src="images/cluster.png" alt="Visualize normalized results" width="300px"/>
+
+<p>&nbsp;</p>
 
