@@ -201,7 +201,7 @@ Visualize normalized results.
 <p>&nbsp;</p>
 
 
-### Bonus: Section F [Optional]
+### Bonus: Section F \[Optional]
 Cluster messages using extracted entities.
 
 <ol>
