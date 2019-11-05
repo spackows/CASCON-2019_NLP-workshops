@@ -130,7 +130,6 @@ Analyze customer questions and comments a notebook.
 <li>
 <p>On the <b>Assets</b> page of your project, open the notebook named "3-Custom-language-model" in edit mode by clicking the pencil ( <img src="images/pencil.png" /> ) beside the notebook</p>
 </li>
-<ol>
 <!-- step -->
 <li>
 <p>Add the NLU service apikey:</p>
@@ -183,6 +182,7 @@ Normalize results.
 
 
 ### Section E
+
 Visualize normalized results.
 
 <ol>
