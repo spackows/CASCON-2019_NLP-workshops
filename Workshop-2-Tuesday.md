@@ -52,7 +52,7 @@ Define the types of word we care about (_entities_) and supply some examples of 
 #### &rarr; A.2 Provide sample customer messages
 On the <b>Documents</b> page:
 <ol>
-<li><p>Download this document set to your local computer: <a href="https://github.com/spackows/CASCON-2019_NLP-workshops/blob/master/custom-language-model/document-set/customer-messages-documents.zip">customer-messages-documents.zip</a></p>
+<li><p>Download this document set to your local computer: <a href="https://github.com/spackows/CASCON-2019_NLP-workshops/raw/master/custom-language-model/document-set/customer-messages-documents.zip">customer-messages-documents.zip</a></p>
 <p><b>Note:</b> Uncompress the .zip file into individual .txt files on your local computer</p></li>
 <li>In Watson Knowledge Studio, click <b>Import Document Set</b> and then upload the 18 .txt files you downloaded in the prerequisites</li>
 <li>Rename the document set "Document set 1"</li>
