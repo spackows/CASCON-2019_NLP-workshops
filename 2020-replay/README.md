@@ -9,7 +9,7 @@ In this hands-on workshop, you will learn how to use IBM Watson services to extr
 
 
 ## Workshop prerequisites
-**Before starting the workshop**, create an IBM Cloud account (free) and provision instances (lite plan) of the following services (if you don't already have these):
+**Before starting the workshop**, create an IBM Cloud account (free) and provision an instance (lite plan) of Watson Studio (if you don't already have these):
 <ol>
 <li>
 <p>Create an IBM Cloud account<br/>
