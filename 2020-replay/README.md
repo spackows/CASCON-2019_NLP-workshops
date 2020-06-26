@@ -1,15 +1,15 @@
 
-# CASCON 2019 NLP workshops
+# CASCON 2019 NLP workshop - replay 2020
 
 As the use of Natural Language Processing (NLP) to process text becomes ubiquitous - from social media apps to job applications - understanding the basics of how meaning is extracted from text is crucial.
 
-In these hands-on workshops, you will learn how to use IBM Watson services to extract meaning from sample text.
+In this hands-on workshop, you will learn how to use IBM Watson services to extract meaning from sample text.
 
 <p>&nbsp;</p>
 
 
 ## Workshop prerequisites
-**Before starting the workshops**, create an IBM Cloud account (free) and provision instances (lite plan) of the following services (if you don't already have these):
+**Before starting the workshop**, create an IBM Cloud account (free) and provision instances (lite plan) of the following services (if you don't already have these):
 <ol>
 <li>
 <p>Create an IBM Cloud account<br/>
@@ -18,10 +18,6 @@ In these hands-on workshops, you will learn how to use IBM Watson services to ex
 <li>
 <p>Provision an instance of IBM Watson Studio<br/>
 <a href="https://cloud.ibm.com/catalog/services/watson-studio">IBM Watson Studio</a></p>
-</li>
-<li>
-<p>Provision an instance of IBM Watson Natural Language Understanding<br/>
-<a href="https://cloud.ibm.com/catalog/services/natural-language-understanding">IBM Watson NLU</a></p>
 </li>
 </ol>
 
