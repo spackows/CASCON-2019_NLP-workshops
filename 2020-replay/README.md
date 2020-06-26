@@ -21,9 +21,6 @@ In this hands-on workshop, you will learn how to use IBM Watson services to extr
 </li>
 </ol>
 
-**Demo video**<br/>
-<a href="https://youtu.be/8ZQ4cSH6-qE">Prerequisite set up</a>
-
 If you have any trouble completing these prerequisites, feel free to email us for help:
 
 Sarah Packowski<br/>
