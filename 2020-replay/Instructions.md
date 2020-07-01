@@ -1,7 +1,7 @@
 
 # Instructions: CASCON 2019 NLP workshop - replay 2020
 
-## Section A
+## Part 1
 A great way to learn about the basic concepts and terms related to IBM Watson Natural Language Understanding is to explore the demo app: [https://natural-language-understanding-demo.ng.bluemix.net](https://natural-language-understanding-demo.ng.bluemix.net)
 
 In the demo app, you can explore:
@@ -21,14 +21,14 @@ See: [Text analytics features](https://cloud.ibm.com/apidocs/natural-language-un
 <p>&nbsp;</p>
 
 
-### Section B
+### Part 2
 Create a project in Watson Studio from the sample project.
 
 <ol>
 <!-- step -->
 <li>
 <p>Download this sample project to your local computer:<br/>
-<a href="">CASCON-2019-NLP-replay.zip</a></p>
+<a href="./CASCON-replay-project.zip">CASCON-replay-project.zip</a></p>
 </li>
 <!-- step -->
 <li>
@@ -44,13 +44,10 @@ Create a project in Watson Studio from the sample project.
 
 <img src="../images/proj.png" alt="Creating a project from a file" width="60%"/>
 
-**Demo video**<br/>
-[Create project from sample](https://youtu.be/UWGZPVKFk1o)
-
 <p>&nbsp;</p>
 
 
-### Section C
+### Part 3
 
 Analyze customer questions and comments in the notebook.
 
