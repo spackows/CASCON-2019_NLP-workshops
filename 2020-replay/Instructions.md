@@ -62,7 +62,7 @@ Analyze customer questions and comments in the notebook.
 </li>
 </ol>
 
-<img src="../images/notebook.png" alt="Notebook" width="90%"/>
+<img src="../images/replay-notebook-image.png" alt="Notebook" width="90%"/>
 
 <p>&nbsp;</p>
 
