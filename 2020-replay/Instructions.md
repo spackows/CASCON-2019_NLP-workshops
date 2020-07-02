@@ -47,7 +47,7 @@ Create a project in Watson Studio from the sample project.
 <li>Select <b>Notebook</b></li>
 <li>Select <b>From URL</b></li>
 <li>Name the notebook (eg. "Analyzing customer messages")</li>
-<li>Paste this URL in the <b>Notebook URL</b> text box: <a href="https://raw.githubusercontent.com/spackows/CASCON-2019_NLP-workshops/master/2020-replay/CASCON-replay-nb.ipynb">Notebook URL</a></li>
+<li>Paste this URL in the <b>Notebook URL</b> text box: <a href="https://raw.githubusercontent.com/spackows/CASCON-2019_NLP-workshops/master/2020-replay/CASCON-replay-nb.ipynb">Notebook URL</a><br/><i><b>Note:</b> Right-click and select "Copy Link Location"</i> ^^</li>
 <li>Click <b>Create Notebook</b></li>
 </ol>
 </li>
