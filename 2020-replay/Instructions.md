@@ -32,12 +32,23 @@ Create a project in Watson Studio from the sample project.
 </li>
 <!-- step -->
 <li>
-<p>In Watson Studio, create a new project "from a sample or file":</p>
+<p>In Watson Studio, create an empty project:</p>
 <ol>
-<li>Upload the sample project .zip file</li>
 <li>Give the project a name</li>
 <li>If you don't already have Cloud Object Storage set up, follow the prompts to create an instance of Cloud Object Storage for the project</li>
 <li>Click <b>Create</b></li>
+</ol>
+</li>
+<!-- step -->
+<li>
+<p>Add the sample notebook to your project:</p>
+<ol>
+<li>On the <i>Assets</i> page in your Watson Studio project, click <b>Add to project</b></li>
+<li>Select <b>Notebook</b></li>
+<li>Select <b>From URL</b></li>
+<li>Name the notebook (eg. "Analyzing customer messages")</li>
+<li>Paste this URL in the <b>Notebook URL</b> text box: <a href="https://raw.githubusercontent.com/spackows/CASCON-2019_NLP-workshops/master/2020-replay/CASCON-replay-nb.ipynb">Notebook URL</a></li>
+<li>Click <b>Create Notebook</b></li>
 </ol>
 </li>
 </ol>
