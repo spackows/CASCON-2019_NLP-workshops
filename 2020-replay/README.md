@@ -5,6 +5,8 @@ As the use of Natural Language Processing (NLP) to process text becomes ubiquito
 
 In this hands-on workshop, you will learn how to use IBM Watson services to extract meaning from sample text.
 
+[Update 2020-07-03]<br/>We will put a link to the recording here when it is available.  _Thanks to everybody who participated today!_
+
 <p>&nbsp;</p>
 
 
