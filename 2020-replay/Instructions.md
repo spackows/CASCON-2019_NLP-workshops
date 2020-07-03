@@ -27,11 +27,6 @@ Create a project in Watson Studio from the sample project.
 <ol>
 <!-- step -->
 <li>
-<p>Download this sample project to your local computer:<br/>
-<a href="./CASCON-replay-project.zip">CASCON-replay-project.zip</a></p>
-</li>
-<!-- step -->
-<li>
 <p>In Watson Studio, create an empty project:</p>
 <ol>
 <li>Give the project a name</li>
