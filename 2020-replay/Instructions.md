@@ -22,7 +22,7 @@ See: [Text analytics features](https://cloud.ibm.com/apidocs/natural-language-un
 
 
 ### Part 2
-Create a project in Watson Studio from the sample project.
+Create a project in Watson Studio.
 
 <ol>
 <!-- step -->
